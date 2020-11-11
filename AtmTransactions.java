@@ -1,4 +1,4 @@
-import java.util. *;
+import java.util.*;
 import java.util.Random;
 import java.util.Base64;
 import java.io.*;
